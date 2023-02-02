@@ -13,7 +13,7 @@ for i in range(len(data)):
         print(f' + {num}', end='')
     else:
         answer *= num
-        print(f' * {num}', end='')
+        print(f' x {num}', end='')
 '''
     else :
         answer += num
